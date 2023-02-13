@@ -9,5 +9,12 @@
     "pythia_judge": "doctest"
   },
   "access": "private",
-  "labels": ["function", "arithmetic"]
+  "labels": [
+    "function",
+    "arithmetic"
+  ],
+  "internals": {
+    "token": "qFBRuKXwIIKP2mcnikr6aNgfJRTXczYfcFSx2ugPbi8mvz5c2tQwmy7_hAtenWbm",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }

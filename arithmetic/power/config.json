@@ -1,0 +1,13 @@
+{
+  "description": {
+    "names": {
+      "en": "Power",
+      "nl": "Power"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "access": "private",
+  "labels": ["function", "arithmetic"]
+}

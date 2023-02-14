@@ -1,0 +1,17 @@
+{
+  "type": "exercise",
+  "description": {
+    "names": {
+      "en": "Five",
+      "nl": "Five"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "access": "private",
+  "labels": [
+    "function",
+    "arithmetic"
+  ]
+}

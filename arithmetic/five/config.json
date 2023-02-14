@@ -13,5 +13,9 @@
   "labels": [
     "function",
     "arithmetic"
-  ]
+  ],
+  "internals": {
+    "token": "_e76bCwDIeIXIYeyDqk9rfjybd7WqbHAmdBmWviJkGdQN7A-_nRvfXe-4JsA3FEy",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }

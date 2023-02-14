@@ -1,0 +1,14 @@
+{
+  "type": "content",
+  "description": {
+    "names": {
+      "en": "Functions",
+      "nl": "Functies"
+    }
+  },
+  "access": "private",
+  "labels": [
+    "function",
+    "arithmetic"
+  ]
+}
